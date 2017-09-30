@@ -1,0 +1,8 @@
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\bin\x64\Release\WinDNSETW.exe.config
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\bin\x64\Release\WinDNSETW.exe
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\bin\x64\Release\WinDNSETW.pdb
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\bin\x64\Release\O365.Security.Native.ETW.dll
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\bin\x64\Release\O365.Security.Native.ETW.pdb
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\bin\x64\Release\O365.Security.Native.ETW.xml
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\obj\x64\Release\WinDNSETW.exe
+C:\Users\mp\Documents\Visual Studio 2017\Projects\WinDNSETW\WinDNSETW\obj\x64\Release\WinDNSETW.pdb

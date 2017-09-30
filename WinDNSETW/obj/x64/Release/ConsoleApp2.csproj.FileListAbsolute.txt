@@ -1,0 +1,9 @@
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\x64\Release\ConsoleApp2.exe.config
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\x64\Release\ConsoleApp2.exe
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\x64\Release\ConsoleApp2.pdb
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\x64\Release\O365.Security.Native.ETW.dll
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\x64\Release\O365.Security.Native.ETW.pdb
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\x64\Release\O365.Security.Native.ETW.xml
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.exe
+c:\users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.pdb
+C:\Users\mp\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\x64\Release\ConsoleApp2.csprojResolveAssemblyReference.cache
